@@ -1,8 +1,9 @@
-# trask-demo
+# Trask demo
 Demo for Trask Job Application
 
-Basic info:
-	-API is located in /api/*
-	-There is 'user', 'knowledge', 'tech' and 'certification'
-	-All should be able to answer GET, POST, PUT and DELETE Rest requests
+Basic info:<br/>
+	-API is located in /api/*<br />
+	-There is 'user', 'knowledge', 'tech' and 'certification'<br/>
+	-All should be able to answer GET, POST, PUT and DELETE Rest requests<br/>
+	
   
