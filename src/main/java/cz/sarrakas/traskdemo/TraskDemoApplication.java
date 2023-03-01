@@ -21,10 +21,7 @@ public class TraskDemoApplication {
 				"  -API is located in /api/*<br>" +
 				"  -There is 'user', 'knowledge', 'tech' and 'certification!<br>"+
 				"  -All should be able to answer GET, POST, PUT and DELETE Rest requests<br><br>"+
-				"Testing db credentials:<br>" +
-				"IP: 88.99.245.38:3306/trask<br>" +
-				"user: admin<br>" +
-				"pass: pernikovaChaloupka<br>"+
+				"Testing db credentials: NO LONGER AVALIBLE<br>" +
 				"Only temp db for testing and showcase<br>It will be disabled after presentation is over</p>";
 	}
 }
